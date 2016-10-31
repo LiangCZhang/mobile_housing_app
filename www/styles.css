@@ -1,0 +1,73 @@
+body {
+  background-color: #006699;
+}
+
+.shiny-input-container {
+    display:inline-block;
+}
+
+#addLocation {
+  background-color: #E6E6E6;
+}
+
+#resetLocations {
+  background-color: #E6E6E6;
+}
+
+#plotSettings {
+  background-color: #E6E6E6;
+}
+
+.irs-bar {
+    width: 100%;
+    height: 25px;
+    background: black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.irs-bar-edge {
+    background: black;
+    border: 1px solid black;
+    height: 25px;
+    border-radius: 0;
+    width: 20px;
+}
+
+.irs-line {
+    border: 1px solid black;
+    height: 25px;
+    border-radius: 0;
+}
+
+.irs-grid-text {
+    font-family: 'arial';
+    color: black;
+    bottom: 17px;
+    z-index: 1;
+}
+
+.irs-grid-pol {
+    display: none;
+}
+
+.irs-max {
+    font-family: 'arial';
+    color: #E6E6E6;
+}
+
+.irs-min {
+    font-family: 'arial';
+    color: #E6E6E6;
+}
+
+.irs-single {
+    color: white;
+    background: black;
+}
+
+.irs-slider {
+    width: 30px;
+    height: 30px;
+    top: 22px;
+}
